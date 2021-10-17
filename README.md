@@ -1,1 +1,5 @@
 # FeatureSelectionForSantanderCustomerSatisficationDataset
+
+VarianceThreshold method.
+
+PearsonCorrelation method.
